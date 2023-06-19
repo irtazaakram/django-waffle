@@ -2,6 +2,12 @@
 Waffle Changelog
 ================
 
+v3.1.0
+======
+- Added support for Django 4.2
+- Removed support EOL Python version 3.7
+
+
 v3.0.0
 ======
 - Added support for pluggable Sample and Switch models
